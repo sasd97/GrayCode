@@ -15,6 +15,4 @@ public class Application {
                 .getAlgorithm(System.out::println)
                 .start(INPUT_PREFIX, CODE_SIZE);
     }
-
-
 }
